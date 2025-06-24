@@ -226,7 +226,7 @@ Violation Breakdown:
 ## 🤔 Assignment Questions - Answers
 
 ### 1. How do you rate yourself for writing scripts in Python (1–10)?
-**Rating: 9/10**
+**Rating: 7/10**
 
 I have extensive experience writing Python applications, including enterprise-level automation tools, data processing pipelines, and cloud infrastructure scripts. I'm comfortable with advanced Python concepts like decorators, context managers, metaclasses, and async/await patterns.
 
@@ -378,7 +378,7 @@ For questions or issues with this implementation, please review the comprehensiv
 ---
 
 **Author:** Vamsi  
-**Email:** [Your Email]  
+**Email:** vamsic2244@gmail.com  
 **Assignment:** DevSecOps - Python + Boto3 + AWS Security  
 **Duration:** ~90 minutes  
 **Company:** Nebula Tech Solutions Client
